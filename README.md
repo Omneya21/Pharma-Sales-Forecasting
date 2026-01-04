@@ -172,7 +172,7 @@ RMSE = sqrt(mean_squared_error(actual, predicted))
 ### **Feature Importance Analysis**
 
 <div align="center">
-  <img src="XGboot_feature_N02BE.PNG" alt="Feature Importance" width="700"/>
+  <img src="XGBoot_feature_N02BE.PNG" alt="Feature Importance" width="700"/>
   <p><em>Top features driving N02BE sales predictions</em></p>
 </div>
 
